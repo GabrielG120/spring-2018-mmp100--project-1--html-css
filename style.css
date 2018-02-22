@@ -11,12 +11,16 @@ h1,h2,h3,h4,h5,h6 {
   color: #900C3F;
 }
 p {
-  font-style: oblique;
-  font-family: 'Abril  Fatface', cursive;
+  font-style: italic;
+  font-family: 'Indie Flower', cursive;
+  text-align:  justify;
+  font-size: 25px;
   color: #C70039;
 }
 ul{
   color: #FFC300;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
 }
 img{
   height: 300px;
