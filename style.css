@@ -1,0 +1,25 @@
+body {
+  font-family: 'Abril  Fatface', cursive;
+  margin: auto;
+  background-color: black;
+  color: white;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  font-style: italic;
+  color: #900C3F;
+}
+p {
+  font-style: oblique;
+  font-family: 'Abril  Fatface', cursive;
+  color: #C70039;
+}
+ul{
+  color: #FFC300;
+}
+img{
+  height: 300px;
+  padding-left: 150px;
+
+}
